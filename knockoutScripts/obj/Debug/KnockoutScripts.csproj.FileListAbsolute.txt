@@ -1,0 +1,12 @@
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\$safeprojectname$.dll
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\$safeprojectname$.pdb
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\Assembly-CSharp.dll
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\BepInEx.dll
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\UnityEngine.UI.dll
+E:\MeatKit-main\Scripts\knockoutScripts\bin\Debug\Valve.Newtonsoft.Json.dll
+E:\MeatKit-main\Scripts\knockoutScripts\obj\Debug\KnockoutScripts.csproj.CoreCompileInputs.cache
+E:\MeatKit-main\Scripts\knockoutScripts\obj\Debug\KnockoutScripts.csproj.CopyComplete
+E:\MeatKit-main\Scripts\knockoutScripts\obj\Debug\$safeprojectname$.dll
+E:\MeatKit-main\Scripts\knockoutScripts\obj\Debug\$safeprojectname$.pdb
+E:\MeatKit-main\Scripts\knockoutScripts\obj\Debug\KnockoutScripts.csprojAssemblyReference.cache
